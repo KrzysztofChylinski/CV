@@ -1,0 +1,129 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Style dla obrazków rozpisane poniżej */
+
+.avatar{
+    width: 80px;
+    height: 100px;
+}
+
+/* Style dla tekstów rozpisane poniżej */
+
+.tittleXXL{
+    font-weight: 300;
+    font-size: 6rem;
+    line-height: 6rem;
+    letter-spacing: -1.5px;
+    padding: 1px 0 3px;
+    margin: 0px;
+}
+
+.tittleXL{
+    font-weight: 300;
+    font-size: 4rem;
+    line-height: 4rem;
+    letter-spacing: -0.5px;
+    padding: 1px 0px 3px;
+    margin: 0px;
+}
+
+.tittleL{
+    font-weight: 300;
+    font-size: 3rem;
+    line-height: 3rem;
+    letter-spacing: 0px;
+    padding: 3px 0px 1px;
+    margin: 0px;
+}
+
+.tittleM{
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2.25rem;
+    letter-spacing: 0.25px;
+    padding: 2px 0px;
+    margin: 0px;
+}
+
+.tittleS{
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    letter-spacing: 0px;
+    padding: 1px 0px 3px;
+    margin: 0px;
+}
+.tittleXS{
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    letter-spacing: 0.15px;
+    padding: 1px 0px 3px;
+    margin: 0px;
+}
+        
+
+.subtittleNormal{
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.2px;
+    padding: 0px 0px 8px;
+    margin: 0px;
+}
+
+.subtittleSmall{
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.1px;
+    padding: 1px 0px 3px;
+    margin: 0px;
+}
+
+.buttonText{
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    letter-spacing: 1.25px;
+    padding: 1px 0px 3px;
+    margin: 0px;
+}
+
+.overline{
+    font-weight: 400;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    letter-spacing: 1.25px;
+    padding: 1px 0px 3px;
+    margin: 0px;
+}
+
+.bodyNormal{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0,5px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bodyMedium{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0,25px;
+    padding: 1px 0px 3px;
+    margin: 0px;
+}
+
+.bodySmall{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4px;
+    padding: 0px;
+    margin: 0px;
+}
